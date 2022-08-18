@@ -2,7 +2,9 @@
   "name": "try-playwright-test",
   "version": "1.0.0",
   "description": "Try Playwright Test lets you execute tests in your browser on StackBlitz",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jfgreffier/try-playwright-test.git"
