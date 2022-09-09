@@ -9,7 +9,7 @@ Try Playwright Test lets you execute tests in your browser on StackBlitz
 [Open in StackBlitz](https://stackblitz.com/fork/github/jfgreffier/try-playwright-test?title=Try%20Playwright%20Test)
 
 You will have the StackBlitz online IDE
-![Try Playwright Test running on Firefox](./docs/try-playwright-test.png)
+![Try Playwright Test running on Firefox](https://github.com/jfgreffier/try-playwright-test/raw/main/docs/try-playwright-test.png)
 
 To run tests, simply use
 ```
