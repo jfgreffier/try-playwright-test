@@ -1,12 +1,12 @@
 # Try Playwright Test
 
-[![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)](https://playwright.dev/) [![Open in StackBlitz](https://img.shields.io/badge/Open%20in-StackBlitz-1374ef)](https://stackblitz.com/fork/github/jfgreffier/try-playwright-test?title=Try%20Playwright%20Test)
+[![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)](https://playwright.dev/) [![Open in StackBlitz](https://img.shields.io/badge/Open%20in-StackBlitz-1374ef)](https://stackblitz.com/edit/jfgreffier-try-playwright-test-eac1pg)
 
 Try Playwright Test lets you execute tests in your browser on StackBlitz
 
 ## Usage
 
-[Open in StackBlitz](https://stackblitz.com/fork/github/jfgreffier/try-playwright-test?title=Try%20Playwright%20Test)
+[Open in StackBlitz](https://stackblitz.com/edit/jfgreffier-try-playwright-test-eac1pg)
 
 You will have the StackBlitz online IDE
 ![Try Playwright Test running on Firefox](https://github.com/jfgreffier/try-playwright-test/raw/main/docs/try-playwright-test.png)
