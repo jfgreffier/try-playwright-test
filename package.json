@@ -11,7 +11,7 @@
   },
   "keywords": ["playwright", "test"],
   "author": "jfgreffier",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jfgreffier/try-playwright-test/issues"
   },
