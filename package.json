@@ -5,6 +5,9 @@
   "scripts": {
     "test": "playwright test"
   },
+  "stackblitz": {
+    "startCommand": "npm test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jfgreffier/try-playwright-test.git"
