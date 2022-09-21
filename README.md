@@ -1,6 +1,6 @@
 # Try Playwright Test
 
-[![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)](https://playwright.dev/) [![Open in StackBlitz](https://img.shields.io/badge/Open%20in-StackBlitz-1374ef)](https://stackblitz.com/edit/jfgreffier-try-playwright-test-eac1pg)
+[![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)](https://playwright.dev/) [![Open in StackBlitz](https://img.shields.io/badge/StackBlitz-1269D3?logo=stackblitz)](https://stackblitz.com/edit/jfgreffier-try-playwright-test-eac1pg)
 
 Try Playwright Test lets you execute tests in your browser on StackBlitz
 
