@@ -12,7 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/jfgreffier/try-playwright-test.git"
   },
-  "keywords": ["playwright", "test"],
+  "keywords": [
+    "playwright",
+    "test"
+  ],
   "author": "jfgreffier",
   "license": "MIT",
   "bugs": {
@@ -20,6 +23,6 @@
   },
   "homepage": "https://github.com/jfgreffier/try-playwright-test#readme",
   "devDependencies": {
-    "@playwright/test": "^1.25.0"
+    "@playwright/test": "1.27.1"
   }
 }
