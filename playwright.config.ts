@@ -19,7 +19,7 @@ const config: PlaywrightTestConfig = {
      * Maximum time expect() should wait for the condition to be met.
      * For example in `await expect(locator).toHaveText();`
      */
-    timeout: 5000
+    timeout: 5000,
   },
   /* Run tests in files in parallel */
   fullyParallel: true,
@@ -42,8 +42,8 @@ const config: PlaywrightTestConfig = {
     trace: 'on-first-retry',
 
     connectOptions: {
-      wsEndpoint: 'wss://try-playwright-test.herokuapp.com/playwright'
-    }
+      wsEndpoint: 'wss://try-playwright-test.herokuapp.com/playwright',
+    },
   },
 
   /* Configure projects for major browsers */

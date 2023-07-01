@@ -12,11 +12,13 @@ You will have the StackBlitz online IDE
 ![Try Playwright Test running on Firefox](https://github.com/jfgreffier/try-playwright-test/raw/main/docs/try-playwright-test.png)
 
 To run tests, simply use
+
 ```
 npm test
 ```
 
 HTML report can be displayed with
+
 ```
 npx playwright show-report
 ```
