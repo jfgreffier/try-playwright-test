@@ -40,10 +40,6 @@ const config: PlaywrightTestConfig = {
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
-
-    connectOptions: {
-      wsEndpoint: 'wss://try-playwright-test.herokuapp.com/playwright',
-    },
   },
 
   /* Configure projects for major browsers */
@@ -65,5 +61,11 @@ const config: PlaywrightTestConfig = {
   //   port: 3000,
   // },
 };
+
+if (process.env.BROWSERLESS_TOKEN && config.use) {
+  config.use.connectOptions = {
+    wsEndpoint: `wss://chrome.browserless.io/playwright?token=${process.env.BROWSERLESS_TOKEN}`,
+  };
+}
 
 export default config;

@@ -1,0 +1,6 @@
+{
+  "startCommand": "npm test",
+  "env": {
+    "BROWSERLESS_TOKEN": "317d7d80-d4f5-4bd3-beb7-ecb8fc96f7e7"
+  }
+}
